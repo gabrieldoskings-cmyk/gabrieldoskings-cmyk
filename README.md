@@ -41,7 +41,7 @@ Focused on building sleek, modern and dark-themed user experiences.
 ### + Contact +
 Open for collaborations and ideas:
   
-- **Discord**: @*kel5ha*  
-- **E-Mail**: 5yncccy@gmail.com
+- **Discord**: @*gab_k3*  
+- **E-Mail**: gabrieldoskings@gmail.com
 
 ---
