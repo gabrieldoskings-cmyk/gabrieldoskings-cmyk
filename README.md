@@ -29,7 +29,6 @@ Focused on building sleek, modern and dark-themed user experiences.
 ---
 
 ### + Featured Work +
-> Constantly evolving — always improving.
 
 - Game systems (Roblox / PC)  
 - Security Systems  
